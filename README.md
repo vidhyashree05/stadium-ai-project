@@ -1,8 +1,27 @@
-<<<<<<< HEAD
-# Welcome to your Lovable project
+# 🎯 Stadium AI Project
 
-TODO: Document your project here
-=======
-# stadium-ai-project
-A smart stadium management web application that optimizes crowd movement, minimizes queues, and enables real-time coordination to enhance the overall event experience for attendees.
->>>>>>> 5a778e59a6ec191917c79dc14c2d7e9a852094bd
+## 📌 Description
+A smart stadium management web application designed to improve crowd control, reduce waiting times, and enhance the overall fan experience during large-scale events.
+
+---
+
+## 🚀 Features
+- 📍 Real-time crowd monitoring  
+- ⏱️ Queue and wait-time management  
+- 🍔 Online food ordering system  
+- 🎟️ Digital ticket access  
+- 🔔 Live notifications and updates  
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: React, TypeScript  
+- Styling: Tailwind CSS  
+- Build Tool: Vite  
+
+---
+
+## ▶️ How to Run the Project
+1. Clone the repository  
+```bash
+git clone https://github.com/vidhyashree05/stadium-ai-project.git
